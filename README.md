@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on: A custom Discord bot for Havoc Community and some Minecraft server optimizations.<br>👯 I’m looking to collaborate on: Open-source Discord utility libraries or Minecraft Spigot/Paper plugins.<br>🌱 I’m currently learning: Java, TypeScript, and advanced database management for player stats.<br>💬 Ask me about: JavaScript/Node.js, Discord API, or how to create custom game mechanics in Minecraft.<br>⚡ Fun fact: I spend 90% of my time debugging and 10% actually playing the games I develop for.
+🔭 I’m currently working on: A custom Discord bot for Havoc Community and some Minecraft server yah. 
+I'm just Endmin but github
 
 
 ## 🌐 Socials:
@@ -11,18 +12,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Endmins&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Endmins&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Endmins&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Endmins&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Endmins&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Endmins&icon=0&color=0)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/endmins) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
